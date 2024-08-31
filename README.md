@@ -1,2 +1,2 @@
-# Magicraft-More-Banning-Spells
-A mod for Magicraft that does what it does... Its kinda Self-Explanatory, no need to say it :)
+# Magicraft More Banning Spells Mod
+- Modding Discord Server: https://discord.gg/WFaxE6A5Ae
